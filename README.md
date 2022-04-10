@@ -1,1 +1,1 @@
-# God-Client
+# A client from my collection
